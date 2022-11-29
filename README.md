@@ -1,2 +1,3 @@
-# ALX: Project 0x03 - Git
-This project tests my basic git skils.
+# ALX: alx-zero_day
+This repo contains mandatory projects:
+1. 0x03 - Git
